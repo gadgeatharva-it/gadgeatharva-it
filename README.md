@@ -8,7 +8,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 - 🎯 Currently working on **data science**,  **web development**, and **Machine learning projects**
 - 🌱 Always learning and exploring new technologies
-- 💼 Experienced in **Python, PHP, MySQL, JavaScript, Data Analytics, and ML/AI**
+- 💼 Experienced in **Python, PHP, MySQL, JavaScript, C, C++, Data Analytics, and ML/AI**
 - 🎨 Enthusiast about **UI/UX design** and **clean code**
 - 📍 Looking to collaborate on exciting projects
 
@@ -22,6 +22,8 @@ Building scalable web applications and insightful data solutions with a focus on
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,8 +56,8 @@ Building scalable web applications and insightful data solutions with a focus on
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **MNIST Digit Recognizer** | CNN implementation for handwritten digit recognition - 98.99% accuracy on 10 epochs | TensorFlow, Keras, Python, CNN | [MNIST-Digit.Recognizer-CNNs](https://github.com/gadgeatharva-it/MNIST-Digit-Recognizer-CNNs) |
-| **Data Science & Analytics** | Comprehensive collection of data science projects, analysis, and machine learning models | Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook | [Data-Science-and-Analytics](https://github.com/gadgeatharva-it/Data-Science-and-Analytics) |
+| **MNIST Digit Recognizer** | CNN implementation for handwritten digit recognition - 98.99% accuracy on 10 epochs | TensorFlow, Keras, Python, CNN | [MNIST-Digit.Recognizer-CNNs](https://github.com/gadgeatharva-it/MNIST-Digit.Recognizer-CNNs) |
+| **Data Science & Analytics** | Comprehensive collection of data science projects, analysis, and machine learning models | Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook | [Data-Science-and-analytics](https://github.com/gadgeatharva-it/Data-Science-and-analytics) |
 | **Data Science Projects** | Hands-on data science and visualization projects with real datasets | Python, Matplotlib, Seaborn, Pandas, Jupyter Notebook | [Data-Science-Projects](https://github.com/gadgeatharva-it/Data-Science-Projects) |
 | **Crime Hotspot Analysis** | Data science project analyzing crime patterns, hotspots, and statistical analysis | Python, Pandas, Data Visualization | [Crime_hotspot](https://github.com/gadgeatharva-it/Crime_hotspot) |
 
@@ -63,7 +65,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development](https://github.com/gadgeatharva-it/web-development) |
+| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development-projects](https://github.com/gadgeatharva-it/web-development-projects) |
 | **Library Management System** | Software application designed to manage and automate core library activities with efficient database management | PHP, MySQL, HTML, CSS | [Library-Management-System](https://github.com/gadgeatharva-it/Library-Management-System) |
 | **Portfolio** | Personal portfolio website showcasing projects and skills | HTML, CSS, JavaScript | [portfolio](https://github.com/gadgeatharva-it/portfolio) |
 | **Chatbot API Integration** | Grok API chatbot implementation for conversational AI | CSS, JavaScript | [chatbot](https://github.com/gadgeatharva-it/chatbot-) |
