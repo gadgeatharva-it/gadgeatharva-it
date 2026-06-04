@@ -78,13 +78,9 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ---
 
-## 📊 GitHub Insights
+## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=tokyo-night)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gadgeatharva-it&theme=tokyonight&no-frame=true&row=1&column=6)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gadgeatharva-it&color=blueviolet)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=tokyo-night&hide_border=true)
 ---
 
 ## 🎓 Interests & Goals
