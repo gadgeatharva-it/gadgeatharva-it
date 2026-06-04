@@ -78,10 +78,13 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Insights
 
-![Snake animation](https://github.com/gadgeatharva-it/gadgeatharva-it/blob/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=tokyo-night)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=gadgeatharva-it&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gadgeatharva-it&color=blueviolet)
 ---
 
 ## 🎓 Interests & Goals
