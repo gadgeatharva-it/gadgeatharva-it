@@ -1,14 +1,12 @@
 # 👋 Hello, I'm Atharva Gadge
 
----
-
 ## 🚀 About Me
 
 **Passionate Data Science and Machine Learning Enthusiast | Web Developer**
 
 Building scalable web applications and insightful data solutions with a focus on clean code and great UX/UX design. I love exploring emerging technologies and sharing my projects with the community.
 
-- 🎯 Currently working on **web development**, **data science**, and **AI projects**
+- 🎯 Currently working on **data science**,  **web development**, and **Machine learning projects**
 - 🌱 Always learning and exploring new technologies
 - 💼 Experienced in **PHP, MySQL, JavaScript, Python, and Data Analytics**
 - 🎨 Enthusiast about **UI/UX design** and **clean code**
@@ -74,9 +72,10 @@ Building scalable web applications and insightful data solutions with a focus on
 ## 🎓 Interests & Goals
 
 ✨ **Currently Exploring:**
-- Advanced web frameworks and architectures
+- Data Science and visualization
+- Machine learning applications
 - Machine Learning and AI applications
-- Data visualization techniques
+- Advanced web frameworks and architectures
 - Cloud technologies and DevOps
 
 🎯 **Goals:**
@@ -89,7 +88,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ## 💡 Quick Facts
 
-- 📚 **Expertise:** Full-Stack Development, Data Science, Web Design
+- 📚 **Expertise:**  Data Science,machine learning ,Full-Stack Development, Web Design
 - 💻 **Active Projects:** 11 Repositories
 - ⭐ **Stars:** 8 Total
 
