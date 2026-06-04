@@ -63,7 +63,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development-projects](https://github.com/gadgeatharva-it/web-development-projects) |
+| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development](https://github.com/gadgeatharva-it/web-development) |
 | **Library Management System** | Software application designed to manage and automate core library activities with efficient database management | PHP, MySQL, HTML, CSS | [Library-Management-System](https://github.com/gadgeatharva-it/Library-Management-System) |
 | **Portfolio** | Personal portfolio website showcasing projects and skills | HTML, CSS, JavaScript | [portfolio](https://github.com/gadgeatharva-it/portfolio) |
 | **Chatbot API Integration** | Grok API chatbot implementation for conversational AI | CSS, JavaScript | [chatbot-](https://github.com/gadgeatharva-it/chatbot-) |
@@ -78,9 +78,37 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Overview by Category
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=tokyo-night&hide_border=true)
+<div align="center">
+
+### 🔬 Data Science & Machine Learning
+```
+█████████████████████████ 45% 
+└─ Projects: 4+ | Focus: Deep Learning, AI, Data Analysis
+```
+
+### 💻 Web Development
+```
+████████████████ 35%
+└─ Projects: 4+ | Focus: Full-Stack, PHP/MySQL, JavaScript
+```
+
+### 📚 Other & Learning
+```
+██████ 20%
+└─ Projects: 3+ | Focus: Code Practices, Experiments
+```
+
+### 📈 Contribution Stats
+- **Total Active Projects:** 12+
+- **Data Science Repositories:** 4
+- **Web Development Repositories:** 4
+- **Learning & Experimentation:** 3+
+- **Key Achievement:** 98.99% accuracy on MNIST digit recognition
+
+</div>
+
 ---
 
 ## 🎓 Interests & Goals
@@ -103,8 +131,9 @@ Building scalable web applications and insightful data solutions with a focus on
 ## 💡 Quick Facts
 
 - 📚 **Expertise:**  Data Science, Machine Learning, Deep Learning, Full-Stack Development, Web Design
-- 💻 **Active Projects:** 12 Repositories
+- 💻 **Active Projects:** 12+ Repositories
 - ⭐ **Data Science Focus:** 4 dedicated data science projects
+- 🌐 **Web Development Focus:** 4 full-stack projects
 - 🔬 **Key Achievement:** 98.99% accuracy on MNIST digit recognition
 
 ---
