@@ -1,17 +1,12 @@
 # 👋 Hello, I'm Atharva Gadge
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gadgeatharva-it&style=flat-square&color=blue)
-  [![GitHub Followers](https://img.shields.io/github/followers/gadgeatharva-it?style=flat-square&color=blue)](https://github.com/gadgeatharva-it)
-  
-</div>
-
 ---
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** and **Data Science Enthusiast** with a focus on building scalable web applications and insightful data solutions. I love exploring emerging technologies and sharing my projects with the community.
+**Passionate Data Science and Machine Learning Enthusiast | Web Developer**
+
+Building scalable web applications and insightful data solutions with a focus on clean code and great UX/UX design. I love exploring emerging technologies and sharing my projects with the community.
 
 - 🎯 Currently working on **web development**, **data science**, and **AI projects**
 - 🌱 Always learning and exploring new technologies
@@ -53,7 +48,7 @@ Passionate **Full-Stack Developer** and **Data Science Enthusiast** with a focus
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[web-development-projects](https://github.com/gadgeatharva-it/web-development-projects)** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript |
+| **[web-development-projects](https://github.com/gadgeatharva-it/web-development-projects)** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolios | PHP, JavaScript, MySQL |
 | **[Data-Science-and-Analytics](https://github.com/gadgeatharva-it/Data-Science-and-Analytics)** | Data science projects with analysis, visualization, and machine learning | Python, Jupyter Notebook, Pandas |
 | **[Data-Science-Projects](https://github.com/gadgeatharva-it/Data-Science-Projects)** | Hands-on data science and visualization projects with datasets | Python, Jupyter Notebook |
 | **[CultureCode](https://github.com/gadgeatharva-it/CultureCode)** | Sample GitHub repository showcasing code practices | HTML, CSS |
@@ -95,8 +90,6 @@ Passionate **Full-Stack Developer** and **Data Science Enthusiast** with a focus
 ## 💡 Quick Facts
 
 - 📚 **Expertise:** Full-Stack Development, Data Science, Web Design
-- 🏆 **Contributions:** 51 contributions in the last year
-- 👥 **Community:** 1 Follower, 1 Following
 - 💻 **Active Projects:** 11 Repositories
 - ⭐ **Stars:** 8 Total
 
@@ -125,6 +118,6 @@ Passionate **Full-Stack Developer** and **Data Science Enthusiast** with a focus
 
 <div align="center">
 
-*Last updated: June 2026* | *Always open to collaborations and opportunities* 🚀
+*Always open to collaborations and opportunities* 🚀
 
 </div>
