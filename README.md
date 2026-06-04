@@ -82,11 +82,11 @@ Building scalable web applications and insightful data solutions with a focus on
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&layout=compact&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gadgeatharva-it&theme=tokyonight)
 
 </div>
 
