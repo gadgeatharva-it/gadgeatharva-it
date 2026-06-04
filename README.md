@@ -78,14 +78,9 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gadgeatharva-it&theme=tokyonight)
+![Snake animation](https://github.com/gadgeatharva-it/gadgeatharva-it/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
