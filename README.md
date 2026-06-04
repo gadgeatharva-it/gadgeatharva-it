@@ -8,7 +8,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 - 🎯 Currently working on **data science**,  **web development**, and **Machine learning projects**
 - 🌱 Always learning and exploring new technologies
-- 💼 Experienced in **PHP, MySQL, JavaScript, Python, and Data Analytics**
+- 💼 Experienced in **Python, PHP, MySQL, JavaScript, Data Analytics, and ML/AI**
 - 🎨 Enthusiast about **UI/UX design** and **clean code**
 - 📍 Looking to collaborate on exciting projects
 
@@ -25,11 +25,19 @@ Building scalable web applications and insightful data solutions with a focus on
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Data Science & ML Libraries ⭐
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A3?style=for-the-badge&logoColor=white)
+
 ### Databases & Frameworks
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,16 +50,31 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ## 📌 Featured Projects
 
-<div align="center">
+### 🎯 Data Science Projects (Priority) ⭐
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[web-development-projects](https://github.com/gadgeatharva-it/web-development-projects)** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolios | PHP, JavaScript, MySQL |
-| **[Data-Science-and-Analytics](https://github.com/gadgeatharva-it/Data-Science-and-Analytics)** | Data science projects with analysis, visualization, and machine learning | Python, Jupyter Notebook, Pandas |
-| **[Data-Science-Projects](https://github.com/gadgeatharva-it/Data-Science-Projects)** | Hands-on data science and visualization projects with datasets | Python, Jupyter Notebook |
-| **[CultureCode](https://github.com/gadgeatharva-it/CultureCode)** | Sample GitHub repository showcasing code practices | HTML, CSS |
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| **MNIST Digit Recognizer** | CNN implementation for handwritten digit recognition - 98.99% accuracy on 10 epochs | TensorFlow, Keras, Python, CNN | [MNIST-Digit.Recognizer-CNNs](https://github.com/gadgeatharva-it/MNIST-Digit.Recognizer-CNNs) |
+| **Data Science & Analytics** | Comprehensive collection of data science projects, analysis, and machine learning models | Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook | [Data-Science-and-Analytics](https://github.com/gadgeatharva-it/Data-Science-and-Analytics) |
+| **Data Science Projects** | Hands-on data science and visualization projects with real datasets | Python, Matplotlib, Seaborn, Pandas, Jupyter Notebook | [Data-Science-Projects](https://github.com/gadgeatharva-it/Data-Science-Projects) |
+| **Crime Hotspot Analysis** | Data science project analyzing crime patterns, hotspots, and statistical analysis | Python, Pandas, Data Visualization | [Crime_hotspot](https://github.com/gadgeatharva-it/Crime_hotspot) |
 
-</div>
+### 🌐 Web Development Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development-projects](https://github.com/gadgeatharva-it/web-development-projects) |
+| **Library Management System** | Software application designed to manage and automate core library activities with efficient database management | PHP, MySQL, HTML, CSS | [Library-Management-System](https://github.com/gadgeatharva-it/Library-Management-System) |
+| **Portfolio** | Personal portfolio website showcasing projects and skills | HTML, CSS, JavaScript | [portfolio](https://github.com/gadgeatharva-it/portfolio) |
+| **Chatbot API Integration** | Grok API chatbot implementation for conversational AI | CSS, JavaScript | [chatbot-](https://github.com/gadgeatharva-it/chatbot-) |
+
+### 📚 Other Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| **AWTANDDWDM** | Advanced Web Technologies and Database Web Data Management project | JavaScript, HTML | [AWTANDDWDM](https://github.com/gadgeatharva-it/AWTANDDWDM) |
+| **CultureCode** | Sample GitHub repository showcasing code practices and web development | HTML, CSS | [CultureCode](https://github.com/gadgeatharva-it/CultureCode) |
+| **Localrepo** | Local repository project for learning and development | HTML, CSS | [Localrepo](https://github.com/gadgeatharva-it/Localrepo) |
 
 ---
 
@@ -72,25 +95,26 @@ Building scalable web applications and insightful data solutions with a focus on
 ## 🎓 Interests & Goals
 
 ✨ **Currently Exploring:**
-- Data Science and visualization
-- Machine learning applications
-- Machine Learning and AI applications
+- Advanced Data Science and Machine Learning algorithms
+- Deep Learning architectures (CNNs, RNNs, Transformers)
+- Data Visualization and Interactive Dashboards
 - Advanced web frameworks and architectures
 - Cloud technologies and DevOps
 
 🎯 **Goals:**
-- Build more impactful projects
-- Contribute to open-source communities
-- Master full-stack development
-- Share knowledge through documentation and blogs
+- Build impactful data science projects with real-world applications
+- Contribute to open-source ML/data science communities
+- Master full-stack development with data science integration
+- Share knowledge through documentation, blogs, and tutorials
 
 ---
 
 ## 💡 Quick Facts
 
-- 📚 **Expertise:**  Data Science,machine learning ,Full-Stack Development, Web Design
-- 💻 **Active Projects:** 11 Repositories
-- ⭐ **Stars:** 8 Total
+- 📚 **Expertise:**  Data Science, Machine Learning, Deep Learning, Full-Stack Development, Web Design
+- 💻 **Active Projects:** 12 Repositories
+- ⭐ **Data Science Focus:** 4 dedicated data science projects
+- 🔬 **Key Achievement:** 98.99% accuracy on MNIST digit recognition
 
 ---
 
