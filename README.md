@@ -82,12 +82,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ## 📊 Contribution Overview
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&hide_border=true&theme=default)
-
-</div>
 
 <div align="center">
 
@@ -101,11 +96,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 </div>
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gadgeatharva-it&theme=flat&no-frame=true&column=7&margin-w=8)
-
-</div>
 
 ## 🎓 Interests & Goals
 
