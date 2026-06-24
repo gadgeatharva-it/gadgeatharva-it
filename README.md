@@ -84,11 +84,28 @@ Building scalable web applications and insightful data solutions with a focus on
 
 <div align="center">
 
-![Contribution chart](https://github.com/gadgeatharva-it/gadgeatharva-it/blob/main/contribution-chart.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&hide_border=true&theme=default)
 
 </div>
 
----
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&layout=compact&hide_border=true&theme=default&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=minimal&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gadgeatharva-it&theme=flat&no-frame=true&column=7&margin-w=8)
+
+</div>
 
 ## 🎓 Interests & Goals
 
