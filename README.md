@@ -80,27 +80,19 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ---
 
-## 📊 Contribution Overview by Category
+## 📊 Contribution Overview
 
 <div align="center">
 
-### 🔬 Data Science & Machine Learning
-```
-█████████████████████████ 45% 
-└─ Projects: 4+ | Focus: Deep Learning, AI, Data Analysis
-```
+### 📈 GitHub Contributions
 
-### 💻 Web Development
-```
-████████████████ 35%
-└─ Projects: 4+ | Focus: Full-Stack, PHP/MySQL, JavaScript
-```
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide=contribs,prs)
 
-### 📚 Other & Learning
-```
-██████ 20%
-└─ Projects: 3+ | Focus: Code Practices, Experiments
-```
+### 💫 Contribution Breakdown
+
+- 🔬 **Data Science & Machine Learning** → 45% of projects
+- 💻 **Web Development** → 35% of projects
+- 📚 **Other & Learning** → 20% of projects
 
 </div>
 
