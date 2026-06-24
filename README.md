@@ -82,7 +82,10 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ## 📊 Contribution Overview
 
+<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&hide_border=true&theme=default)
 
+</div>
 
 <div align="center">
 
