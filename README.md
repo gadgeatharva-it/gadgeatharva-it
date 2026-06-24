@@ -86,7 +86,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ### 📈 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide=contribs,prs)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide=contribs,prs&cache_seconds=0)
 
 ### 💫 Contribution Breakdown
 
