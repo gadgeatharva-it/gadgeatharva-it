@@ -88,7 +88,8 @@ Building scalable web applications and insightful data solutions with a focus on
 </div>
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&hide=html,jupyter%20notebook,hack&layout=compact&hide_border=true&theme=default&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&hide=html,jupyter%20notebook,hack,css,javascript&layout=compact&hide_border=true&theme=default&langs_count=6)
+
 </div>
 
 <div align="center">
