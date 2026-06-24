@@ -88,7 +88,18 @@ Building scalable web applications and insightful data solutions with a focus on
 </div>
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgeatharva-it&hide=html,jupyter%20notebook,hack,css,javascript&layout=compact&hide_border=true&theme=default&langs_count=6)
+<div align="center">
+
+| Language | Usage |
+|----------|-------|
+| 🔵 Python | ██████████░░░░░░░░░░ 52% |
+| 🟣 PHP | ████████░░░░░░░░░░░░ 22% |
+| 🟡 JavaScript | ██████░░░░░░░░░░░░░░ 16% |
+| 🩷 C++ | ██░░░░░░░░░░░░░░░░░░ 6% |
+| ⚫ C | █░░░░░░░░░░░░░░░░░░░ 2.5% |
+| 🟤 CSS | ░░░░░░░░░░░░░░░░░░░░ 1.5% |
+
+</div>
 
 </div>
 
