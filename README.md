@@ -56,17 +56,17 @@ Building scalable web applications and insightful data solutions with a focus on
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **MNIST Digit Recognizer** | CNN implementation for handwritten digit recognition - 98.99% accuracy on 10 epochs | TensorFlow, Keras, Python, CNN | [MNIST-Digit.Recognizer-CNNs](https://github.com/g[...])
-| **Data Science & Analytics** | Comprehensive collection of data science projects, analysis, and machine learning models | Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook | [Data-Science-and-An[...])
-| **Data Science Projects** | Hands-on data science and visualization projects with real datasets | Python, Matplotlib, Seaborn, Pandas, Jupyter Notebook | [Data-Science-Projects](https://github.com/g[...])
-| **Crime Hotspot Analysis** | Data science project analyzing crime patterns, hotspots, and statistical analysis | Python, Pandas, Data Visualization | [Crime_hotspot](https://github.com/gadgeatharva-[...])
+| **MNIST Digit Recognizer** | CNN implementation for handwritten digit recognition - 98.99% accuracy on 10 epochs | TensorFlow, Keras, Python, CNN | [MNIST-Digit.Recognizer-CNNs](https://github.com/g[...]
+| **Data Science & Analytics** | Comprehensive collection of data science projects, analysis, and machine learning models | Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook | [Data-Science-and-An[...]
+| **Data Science Projects** | Hands-on data science and visualization projects with real datasets | Python, Matplotlib, Seaborn, Pandas, Jupyter Notebook | [Data-Science-Projects](https://github.com/g[...]
+| **Crime Hotspot Analysis** | Data science project analyzing crime patterns, hotspots, and statistical analysis | Python, Pandas, Data Visualization | [Crime_hotspot](https://github.com/gadgeatharva-[...]
 
 ### 🌐 Web Development Projects
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development-p[...])
-| **Library Management System** | Software application designed to manage and automate core library activities with efficient database management | PHP, MySQL, HTML, CSS | [Library-Management-System]([...])
+| **Web Development Projects** | Collection of full-stack web applications including e-commerce sites, admin dashboards, and portfolio websites | PHP, MySQL, JavaScript, HTML, CSS | [web-development-p[...]
+| **Library Management System** | Software application designed to manage and automate core library activities with efficient database management | PHP, MySQL, HTML, CSS | [Library-Management-System]([...]
 | **Portfolio** | Personal portfolio website showcasing projects and skills | HTML, CSS, JavaScript | [portfolio](https://github.com/gadgeatharva-it/portfolio) |
 | **Chatbot API Integration** | Grok API chatbot implementation for conversational AI | CSS, JavaScript | [chatbot](https://github.com/gadgeatharva-it/chatbot-) |
 
@@ -84,16 +84,7 @@ Building scalable web applications and insightful data solutions with a focus on
 
 <div align="center">
 
-### 📈 GitHub Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical)
-
-### 💫 Contribution Breakdown
-
-- 🔬 **Data Science & Machine Learning** → 45% of projects
-- 💻 **Web Development** → 35% of projects
-- 📚 **Other & Learning** → 20% of projects
-- 🔒 **Private contributions included** on this profile
+![Contribution chart](https://github.com/gadgeatharva-it/gadgeatharva-it/blob/main/contribution-chart.png)
 
 </div>
 
