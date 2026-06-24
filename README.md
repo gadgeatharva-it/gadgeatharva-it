@@ -86,22 +86,7 @@ Building scalable web applications and insightful data solutions with a focus on
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&hide_border=true&theme=default)
 
 </div>
-<div align="center">
-  
-<div align="center">
 
-| Language | Usage |
-|----------|-------|
-| 🔵 Python | ██████████░░░░░░░░░░ 52% |
-| 🟣 PHP | ████████░░░░░░░░░░░░ 22% |
-| 🟡 JavaScript | ██████░░░░░░░░░░░░░░ 16% |
-| 🩷 C++ | ██░░░░░░░░░░░░░░░░░░ 6% |
-| ⚫ C | █░░░░░░░░░░░░░░░░░░░ 2.5% |
-| 🟤 CSS | ░░░░░░░░░░░░░░░░░░░░ 1.5% |
-
-</div>
-
-</div>
 
 <div align="center">
 
