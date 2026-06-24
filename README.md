@@ -86,13 +86,14 @@ Building scalable web applications and insightful data solutions with a focus on
 
 ### 📈 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide=contribs,prs&cache_seconds=0)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=gadgeatharva-it&show_icons=true&theme=radical&hide=contribs,prs&include_all_commits=true&count_private=true&cache_seconds=0)
 
 ### 💫 Contribution Breakdown
 
 - 🔬 **Data Science & Machine Learning** → 45% of projects
 - 💻 **Web Development** → 35% of projects
 - 📚 **Other & Learning** → 20% of projects
+- 🔒 **Private contributions included** on this profile
 
 </div>
 
