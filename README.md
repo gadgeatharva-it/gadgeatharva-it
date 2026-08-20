@@ -78,22 +78,7 @@ Building scalable web applications and insightful data solutions with a focus on
 | **CultureCode** | Sample GitHub repository showcasing code practices and web development | HTML, CSS | [CultureCode](https://github.com/gadgeatharva-it/CultureCode) |
 | **Localrepo** | Local repository project for learning and development | HTML, CSS | [Localrepo](https://github.com/gadgeatharva-it/Localrepo) |
 
----
-
-## 📊 Contribution Overview
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadgeatharva-it&hide_border=true&theme=default)
-
-</div>
-
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadgeatharva-it&theme=minimal&hide_border=true&area=true)
-
-</div>
-
+--
 
 
 ## 🎓 Interests & Goals
